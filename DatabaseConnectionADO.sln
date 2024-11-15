@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConnectionADO", "DatabaseConnectionADO.csproj", "{D6A48444-BBFF-4DA0-B961-A730DE19C79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A48444-BBFF-4DA0-B961-A730DE19C79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A48444-BBFF-4DA0-B961-A730DE19C79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A48444-BBFF-4DA0-B961-A730DE19C79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A48444-BBFF-4DA0-B961-A730DE19C79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88B52648-F753-4A58-8531-75BE0CD77EF0}
+	EndGlobalSection
+EndGlobal
